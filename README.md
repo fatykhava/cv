@@ -1,2 +1,2 @@
-#CV
-[Link CV] https://fatykhava.github.io/cv/
+# CV
+[Link CV](https://fatykhava.github.io/cv/)
